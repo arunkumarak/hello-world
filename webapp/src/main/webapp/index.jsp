@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:DodgerBlue;">New Tomcat deployment</h1>
+    <h1 style="background-color:DodgerBlue;">CICD full flow</h1>
     <h1 style="background-color:color:MediumSeaGreen;">second change</h1>
     <h1 style="background-color:color:MediumSeaGreen;">New change</h1>
     <h1 style="background-color:DodgerBlue;">DOCKER</h1>
