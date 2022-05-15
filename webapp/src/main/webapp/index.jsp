@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1 style="background-color:DodgerBlue;">Docker Automation without Ansible</h1>
+    <h1 style="background-color:DodgerBlue;">Full Automation</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
